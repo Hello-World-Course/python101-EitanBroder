@@ -29,7 +29,7 @@ def register_user():
                 print(f"{name}, the board size is: " f"{board_size}, number of mines is: " f"{number_of_mines}. ENJOY!")
 
 
-register_user()
+
 
 
 
